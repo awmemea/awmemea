@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![A photorealistic, cinematic, wide-angle computer rendering of a woman standing in a large indoor modern museum space staring at a giant LED screen displaying colorful smoke.](img/banner.webp)](https://zachnguyen.com)
 <!--
 **awmemea/awmemea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
